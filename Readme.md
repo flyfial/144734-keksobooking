@@ -1,7 +1,7 @@
-# Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
+﻿# Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Anastasiya Matsuk](https://up.htmlacademy.ru/javascript/8/user/144734).
-* Наставник: `Неизвестно`.
+* Наставник: [Иван Клочко](https://up.htmlacademy.ru/javascript/8/user/339651).
 
 ---
 
